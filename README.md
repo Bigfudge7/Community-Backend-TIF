@@ -1,8 +1,9 @@
-# The-Internet-Folks-SDE-Intern-Assignment
-It was a assignment given by "The Internet Folks" as a part of The Internet Folks: SDE Intern Assignment round-2.
+# Community Backend Assignment-TIF
 
 
-#Usage
+
+How to use:-
+
 1. cd into the parent directory of project, then use
 
   npm install
